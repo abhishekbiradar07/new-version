@@ -2,4 +2,4 @@ tags
 git tag
 git tag -a v1.0 -m "message"
 git show
-git
+git push origin v1.0
